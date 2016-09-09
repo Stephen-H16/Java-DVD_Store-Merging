@@ -1,3 +1,7 @@
+/**
+ *
+ * @author STEPHEN HOEY
+ */
 public class Merge_Dvds {
 
     private static final Dvds[] Array1 = new Dvds[5];
